@@ -24,12 +24,12 @@ A beautiful retro flip clock Pomodoro timer that lives in your Chrome toolbar.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rahulsingh0890/Roma1990-Browser.git
+   git clone https://github.com/rahulsingh0890/Roma1990-ChromeExtension.git
    ```
 2. Open `chrome://extensions` in Chrome
 3. Enable **Developer mode** (toggle in the top right)
 4. Click **Load unpacked**
-5. Select the cloned `Roma1990-Browser` folder
+5. Select the cloned `Roma1990-ChromeExtension` folder
 6. The Roma1990 icon appears in your toolbar - click it to start a session
 
 ## How It Works
@@ -46,7 +46,7 @@ popup.js  ──sendMessage──>  service-worker.js  ──>  chrome.storage.l
 ### Project Structure
 
 ```
-Roma1990-Browser/
+Roma1990-ChromeExtension/
 ├── manifest.json              # Chrome extension manifest (V3)
 ├── background/
 │   └── service-worker.js      # Timer engine, badge, alarms, notifications
