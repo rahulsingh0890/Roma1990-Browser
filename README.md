@@ -5,6 +5,8 @@ A beautiful retro flip clock Pomodoro timer that lives in your Chrome toolbar.
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 
+![MockUp](MockUp.png)
+
 ## Features
 
 - **Retro Flip Clock** - 3D animated flip cards with realistic hinge, shadows, and glass reflections
